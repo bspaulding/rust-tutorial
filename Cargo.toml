@@ -1,9 +1,9 @@
 [package]
 
-name = "2-hello-world"
+name = "hello_world"
 version = "0.0.1"
 authors = [ "Bradley Spaulding <brad.spaulding@gmail.com>" ]
 
 [[bin]]
 
-name = "2-hello-world"
+name = "hello_world"
